@@ -1,5 +1,9 @@
 # Attack-of-the-Aliens
 
+## Description
+
+This is a space shooter game where the player must defeat several different aliens, collect coins, and try to get the highest score possible. It uses JavaFX, IO, OOP, and polymorphism (for the different alien types).
+
 ## Game Preview:
 
 ### Main Menu
