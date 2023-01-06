@@ -1,5 +1,20 @@
 # Attack-of-the-Aliens
 
+## Game Preview:
+
+### Main Menu
+![image](https://user-images.githubusercontent.com/55364141/211113199-a72b0dfd-42df-4183-af75-0bfb0f637578.png)
+
+### Controls and Upgrades Menu
+![image](https://user-images.githubusercontent.com/55364141/211113252-10d1871f-394a-4a1b-973b-012fd80a42dc.png)
+
+### Leaderboard
+![image](https://user-images.githubusercontent.com/55364141/211113300-73db909a-473c-454b-934a-661f81fd8560.png)
+
+### Gameplay
+![image](https://user-images.githubusercontent.com/55364141/211113362-0cf7f5b7-f95f-4c8f-8202-6415edf4e932.png)
+
+
 ## Program Description: 
 
 This game is a space shooter, where the player controls a ship that shoots lasers and bombs at enemy aliens. The player is able to move up, down, left, and right, as well as diagonally. The ship movement is controlled by the arrow keys. Note that moving up is slower than moving down or to the side (this is to increase the difficulty when trying to avoid aliens). There is also a moving background, which speeds up as the game goes on. The ships speed will increase proportionally to the speed of the background. To shoot lasers, the 'E' key must be pressed. The laser will repeatedly shoot at a rate of one shot per 0.5 seconds, as long as the key is pressed. All aliens will die as soon as they are hit by a laser. The ship can also shoot bombs from the sides, by pressing the 'A' and 'D' keys. The 'A' key will shoot a bomb from the left side of the ship. The 'D' key will shoot a bomb from the right side of the ship. The bomb also moves with the background. Bomb can only be fired at a rate of one firing per 2.2 seconds.
